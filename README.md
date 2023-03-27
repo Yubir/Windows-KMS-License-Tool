@@ -1,2 +1,2 @@
-# Windows-KMS-License-Tool
-Free Windows License ! !
+# Issue
+If you find an error, please open Issue.
